@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Taejoon Byun"
   avatar           : "profile.png"
-  bio              : "I help engineer trustworthy software/AI systems. I research practical techniques and develop tools to improve the software reliability, especially machine learning systems. I am a self-initiated researcher and a software engineer with proficient clean-coding skills and strong interpersonal skills."
+  bio              : "I am a Ph.D. Candidate at University of Minnesota."
   location         : "Minneapolis, MN"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=EgIXELYAAAAJ&hl=en&oi=ao"
   email            : 
   researchgate     : "https://www.researchgate.net/profile/Taejoon_Byun"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/taejoon-byun/"
-  orcid            : "http://orcid.org/yourorcidurl"
+#  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+#  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+#  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

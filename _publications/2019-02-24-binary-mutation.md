@@ -2,7 +2,6 @@
 title: "Binary Mutation Analysis of Tests Using Reassembleable Disassembly"
 collection: publications
 permalink: /publication/2019-02-24-binary-mutation
-excerpt: 'Good tests are important in software development, but it can be hard to tell whether tests will reveal future faults that are themselves unknown. Mutation analysis, which checks whether tests reveal inserted changes in a program, is a strong measure of test suite adequacy, but common source or compiler-level approaches to mutation testing are not applicable to software available only in binary form. We explore mutation analysis as an application of the reassembleable disassembly approach to binary rewriting, building a tool for x86 binaries on top of the previously-developed Uroboros system, and apply it to the C benchmarks from SPEC CPU 2006 and to five examples of embedded control software. The results demonstrate that our approach works effectively across these software domains—as expected, tests designed for performance benchmarking reveal fewer mutants than tests generated to achieve high code coverage, but mutation scores indicate differences in test origins and features such as code size and fault-tolerance. Our binary-level tool also achieves comparable results to source-level mutation analysis despite supporting a more limited set of mutation operators. More generally we also argue that our experience shows how reassembleable disassembly is a valuable approach for constructing novel binary rewriting tools.'
 date: 2019-02-24
 venue: 'Workshop on Binary Analysis Research (BAR) '
 paperurl: 'https://ruoyuwang.me/bar2019/pdfs/bar2019-final58.pdf'
@@ -10,7 +9,5 @@ citation: '.'
 ---
 
 <a href='https://ruoyuwang.me/bar2019/pdfs/bar2019-final58.pdf'>Download paper here</a>
-
-Good tests are important in software development, but it can be hard to tell whether tests will reveal future faults that are themselves unknown. Mutation analysis, which checks whether tests reveal inserted changes in a program, is a strong measure of test suite adequacy, but common source or compiler-level approaches to mutation testing are not applicable to software available only in binary form. We explore mutation analysis as an application of the reassembleable disassembly approach to binary rewriting, building a tool for x86 binaries on top of the previously-developed Uroboros system, and apply it to the C benchmarks from SPEC CPU 2006 and to five examples of embedded control software. The results demonstrate that our approach works effectively across these software domains—as expected, tests designed for performance benchmarking reveal fewer mutants than tests generated to achieve high code coverage, but mutation scores indicate differences in test origins and features such as code size and fault-tolerance. Our binary-level tool also achieves comparable results to source-level mutation analysis despite supporting a more limited set of mutation operators. More generally we also argue that our experience shows how reassembleable disassembly is a valuable approach for constructing novel binary rewriting tools.
 
 Recommended citation: .

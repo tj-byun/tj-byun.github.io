@@ -2,7 +2,6 @@
 title: "Constraint-based test generation for automotive operating systems"
 collection: publications
 permalink: /publication/2017-02-01-constraint-based-test
-excerpt: 'This work suggests a method for systematically constructing a software-level environment model for safety checking automotive operating systems by introducing a constraint specification language, OSEK_CSL. OSEK_CSL is designed to specify the usage constraints of automotive operating systems using a pre-defined set of constraint types identified from the international standard OSEK/VDX. Each constraint specified in OSEK_CSL is interpreted as either a regular language or a context-free language that can be checked by a finite automaton or a pushdown automaton. The set of usage constraints is used to systematically classify the universal usage model of OSEK-/VDX-based operating systems and to generate test sequences with varying degrees of constraint satisfaction using LTL model checking. With pre-defined constraint patterns and the full support of automation, test engineers can choose the degree of constraint satisfaction and generate test cases using combinatorial intersections of selected constraints that cover all corner cases classified by constraints. A series of experiments on an open-source automotive operating system show that our approach finds safety issues more effectively than conventional specification-based testing, scenario-based testing, and conformance testing.'
 date: 2017-02-01
 venue: 'Software &amp; Systems Modeling'
 paperurl: 'https://link.springer.com/article/10.1007/s10270-014-0449-6'
@@ -10,7 +9,5 @@ citation: '.'
 ---
 
 <a href='https://link.springer.com/article/10.1007/s10270-014-0449-6'>Download paper here</a>
-
-This work suggests a method for systematically constructing a software-level environment model for safety checking automotive operating systems by introducing a constraint specification language, OSEK_CSL. OSEK_CSL is designed to specify the usage constraints of automotive operating systems using a pre-defined set of constraint types identified from the international standard OSEK/VDX. Each constraint specified in OSEK_CSL is interpreted as either a regular language or a context-free language that can be checked by a finite automaton or a pushdown automaton. The set of usage constraints is used to systematically classify the universal usage model of OSEK-/VDX-based operating systems and to generate test sequences with varying degrees of constraint satisfaction using LTL model checking. With pre-defined constraint patterns and the full support of automation, test engineers can choose the degree of constraint satisfaction and generate test cases using combinatorial intersections of selected constraints that cover all corner cases classified by constraints. A series of experiments on an open-source automotive operating system show that our approach finds safety issues more effectively than conventional specification-based testing, scenario-based testing, and conformance testing.
 
 Recommended citation: .

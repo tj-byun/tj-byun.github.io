@@ -1,0 +1,16 @@
+---
+title: "Toward rigorous object-code coverage criteria"
+collection: publications
+permalink: /publication/10/23/17-towards-rigorous
+excerpt: 'Object-branch coverage (OBC) is often used as a measure of the thoroughness of tests suites, augmenting or substituting source-code based structural criteria such as branch coverage and modified condition/decision coverage (MC/DC). In addition, with the increasing use of third-party components for which source-code access may be unavailable, robust object-code coverage criteria are essential to assess how well the components are exercised during testing. While OBC has the advantage of being programming language independent and is amenable to non-intrusive coverage measurement techniques, variations in compilers and the optimizations they perform can substantially change the structure of the generated code and the instructions used to represent branches. To address the need for a robust object coverage criterion, this paper proposes a rigorous definition of OBC such that it captures well the semantics of source code branches for a given instruction set architecture. We report an empirical assessment of these criteria for the Intel x86 instruction set on several examples from embedded control systems software. Preliminary results indicate that object-code coverage can be made robust to compilation variations and is comparable in its bug-finding efficacy to source level MC/DC.'
+date: 10/23/17
+venue: '2017 IEEE 28th International Symposium on Software Reliability Engineering (ISSRE)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/8109098'
+citation: '.'
+---
+
+<a href='https://ieeexplore.ieee.org/abstract/document/8109098'>Download paper here</a>
+
+Object-branch coverage (OBC) is often used as a measure of the thoroughness of tests suites, augmenting or substituting source-code based structural criteria such as branch coverage and modified condition/decision coverage (MC/DC). In addition, with the increasing use of third-party components for which source-code access may be unavailable, robust object-code coverage criteria are essential to assess how well the components are exercised during testing. While OBC has the advantage of being programming language independent and is amenable to non-intrusive coverage measurement techniques, variations in compilers and the optimizations they perform can substantially change the structure of the generated code and the instructions used to represent branches. To address the need for a robust object coverage criterion, this paper proposes a rigorous definition of OBC such that it captures well the semantics of source code branches for a given instruction set architecture. We report an empirical assessment of these criteria for the Intel x86 instruction set on several examples from embedded control systems software. Preliminary results indicate that object-code coverage can be made robust to compilation variations and is comparable in its bug-finding efficacy to source level MC/DC.
+
+Recommended citation: .

@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I help engineer trustworthy software/AI systems. I research practical techniques and develop tools to improve the software reliability, especially machine learning systems. I am a self-initiated researcher and a software engineer with proficient clean-coding skills and strong interpersonal skills. 
+I am a software engineer who is motivated to build quality software, with special interest in the verification of autonomous systems and combining machine learning with software testing. As a researcher, I developed novel software testing techniques for various types of systems, including machine-learning-enabled systems, embedded consumer electronics, automotive OS, and binary code. 
+

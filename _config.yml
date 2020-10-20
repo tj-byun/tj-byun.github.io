@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Taejoon Byun"
   avatar           : "profile.png"
-  bio              : "I am a Ph.D. Candidate at University of Minnesota."
+  bio              : "Software Engineering researcher (Ph.D. Candidate) at University of Minnesota."
   location         : "Minneapolis, MN"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
